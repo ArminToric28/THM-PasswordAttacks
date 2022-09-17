@@ -1,4 +1,4 @@
-# TryHackMe - Password Attacks
+# TryHackMe - Password Attacks Writeup / Walkthrough
 - TryHackMe room that introduces various tools with password attacks
 - I thought this room was great fun and perfect practice for the user who already has a fundamental understanding of the techniques. It does a great job of building up fundamental lessons and then going deeper and exploring a few tools such as Hydra, Cewl, John the Ripper, HashCat, and more! I did not see many writeups for this room when I stumbled across a few issues so I decided to make my first writeup for this room. Let's Get Started!
 - [TryHackMe Password Attacks Room](https://tryhackme.com/room/passwordattacks)
